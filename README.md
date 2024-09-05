@@ -39,13 +39,13 @@ Run the GUI Version:
 
 **Screenshots**
 
-  ![Screenshot from 2024-09-01 11-50-23](https://github.com/user-attachments/assets/1bc0082d-0ff1-41c9-8cba-7653b6f423c9)
-  
-  
-  ![Screenshot from 2024-09-01 11-50-49](https://github.com/user-attachments/assets/fa8db45e-edb2-4c78-bf0f-21915401db5d)
+  <img src="https://github.com/user-attachments/assets/1bc0082d-0ff1-41c9-8cba-7653b6f423c9" alt="Screenshot from 2024-09-01 11-50-23" width="300"  />
+  <img src="https://github.com/user-attachments/assets/fa8db45e-edb2-4c78-bf0f-21915401db5d" alt="Screenshot from 2024-09-01 11-50-49" width="300"  />
+  <img src="https://github.com/user-attachments/assets/1eb42ae0-d608-45c0-89a7-df0f403de2db" alt="Screenshot from 2024-09-01 11-51-22" width="300" />
 
-  
-  ![Screenshot from 2024-09-01 11-51-22](https://github.com/user-attachments/assets/1eb42ae0-d608-45c0-89a7-df0f403de2db)
+
+
+
 
 
 
